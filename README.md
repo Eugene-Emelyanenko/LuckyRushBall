@@ -2,5 +2,6 @@
  Simple 2D indie game
 
 
-https://github.com/user-attachments/assets/3808be47-9018-4827-b3e2-b63943451d98
+
+https://github.com/user-attachments/assets/3ee8dc4b-5bba-42a6-a1e7-700e358192f3
 
